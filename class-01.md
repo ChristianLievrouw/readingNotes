@@ -9,12 +9,16 @@ Structuring a webpage is similar to structuring a text document. When structurin
 - ``` <p lang="en-us"> ```
 
 ## Extra markups
+
 ``` <!DOCTYPE html> ``` 
 - Tells the browser which version of html you are using
+
 ``` <!-- --> ```
 - Use this to add comments in a html document that is not seen on the webpage
+
 ``` <p id="identifier"> ```
 - IDs are used to separate element that you would like to add styles to so it stands out from other identical elements
+
 ``` <p class="identifier"> ```
 - Class identifiers are similar to ID identifiers expect you use class to identify multiple elements
 
@@ -22,15 +26,19 @@ Structuring a webpage is similar to structuring a text document. When structurin
 - block elements start a new line on the webpage
 Examples
 ``` <h1> <p> <li> ```
+
 ## Inline elements
 - elements that stay in the same line of code
 ``` <b> <a> <img> ```
+
 ## Div tags
 - ``` <div></div> ```
 - use when you need to group multiple elements
+
 ## Span tag
 - ``` <span></span> ```
 - acts similar to DIV except used for inline elements
+
 ## META tag
 - lives in the head of your webpage and gives information about the web page such as description, keywords, robots, author, pragma, and expires
 
@@ -42,6 +50,7 @@ Site maps and wireframes are awesome tools to help lay out the most efficient we
 
 ## Site map
 - helps layout the entire webpage for what content should go where
+
 ## Wireframe
 - layout of individual page
 
@@ -53,9 +62,12 @@ Javascript works with a webpage to give the user an interactive experience. With
 
 ### object
 - javascript can use physical things as object
+
 ### Properties
 - each object has a set of properties 
+
 ### Events
 - When interacting with the objects it causes events
+
 ### Methods
 - how to object will be interacted with
