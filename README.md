@@ -5,7 +5,7 @@ This website will house all of my work done in DeltaV Code 201!
 1. Reading assignment
     - [Read:01](class-01.md)
 2. Reading assignment
-    - link
+    - [Read:02](class-02.md)
 3. Reading assignment
     - link
 4. Reading assignment
