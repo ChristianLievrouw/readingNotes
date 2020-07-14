@@ -1,6 +1,8 @@
+# Code 201: Foundations of software development
+
 ## Code 201 Reading Notes
 
-This website will house all of my work done in DeltaV Code 201!
+This website will house all of my reading work done in DeltaV Code 201!
 
 1. Reading assignment
     - [Read:01](class-01.md)
@@ -30,6 +32,16 @@ This website will house all of my work done in DeltaV Code 201!
     - [Read: 13](class-13.md)
 14. Reading assignment
     - [Read: 14](class-14.md)
-15. Reading assignment
-    - link
 
+# Code 301: Intermediate software development
+
+## Code 301 readings notes
+
+This website will house all of my reading notes done in DeltaV Code 301!
+
+
+# Code 401: Advanced software development 
+
+## Code 401 reading notes
+
+This website will house all of my reading notes done in DeltaV Code 401!
