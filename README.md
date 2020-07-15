@@ -39,6 +39,9 @@ This website will house all of my reading work done in DeltaV Code 201!
 
 This website will house all of my reading notes done in DeltaV Code 301!
 
+1. Reading assignment
+    - [Reading: 1](class-301-1.md)
+
 
 # Code 401: Advanced software development 
 
